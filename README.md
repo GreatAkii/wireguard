@@ -1,5 +1,5 @@
 # wireguard
-Free VPN wireguard server setup shell script
+Wireguard VPN server setup shell script
 
 # Getting started
 Install and configure wireguard on Ubuntu server with setupserver.sh shell script. <br>
